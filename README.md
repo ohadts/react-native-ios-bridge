@@ -1,5 +1,5 @@
 # react-native-ios-bridge
 
-npm i
-cd ios
-pod install
+* npm i
+* cd ios
+* pod install
